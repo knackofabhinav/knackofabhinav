@@ -25,7 +25,5 @@ My Tech Stacks
 <br>
 <p align="center">
 A little more about me... with npm installed, just type
- 
 </p>
-<br>
 ```npx knackofabhinav```
