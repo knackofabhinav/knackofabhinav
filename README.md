@@ -23,3 +23,8 @@ My Tech Stacks
 </p>
 <br>
 <br>
+A little more about me... with npm installed, just type
+
+```
+npx knackofabhinav
+```
