@@ -23,8 +23,9 @@ My Tech Stacks
 </p>
 <br>
 <br>
+<p align="center">
 A little more about me... with npm installed, just type
-
-```
-npx knackofabhinav
-```
+ 
+</p>
+<br>
+```npx knackofabhinav```
