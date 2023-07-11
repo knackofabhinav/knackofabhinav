@@ -3,7 +3,7 @@
 I'm Abhinav, a self-motivated tech enthusiast and full stack web developer.
 </p>
 <h4 align="center">
-💻 Full-Stack Developer <a href="https://github.com/geekyants">@GeekyAnts</a> | <a href="https://knackofabhinav.tech">knackofabhinav.com</a> | 💬 <a href="mailto:knackofabhinav@gmail.com">Drop a message</a>
+💻 Full-Stack Developer <a href="https://github.com/geekyants">@GeekyAnts</a> | <a href="https://knackofabhinav.com">knackofabhinav.com</a> | 💬 <a href="mailto:knackofabhinav@gmail.com">Drop a message</a>
 </h4>
 <p align="center">
 <i>A little more about me... with npm installed, just type</i>
